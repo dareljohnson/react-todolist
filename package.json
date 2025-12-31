@@ -4,7 +4,7 @@
   "private": true,
   "devDependencies": {
     "cross-env": "^5.1.4",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -12,7 +12,7 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "cross-env PORT=4100 react-scripts start",
